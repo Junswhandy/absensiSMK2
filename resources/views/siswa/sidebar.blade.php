@@ -31,7 +31,7 @@
             <li>
                 <a href="#" class="flex items-center px-6 py-3 hover:bg-secondary hover:text-white transition-colors duration-200">
                     <span class="material-icons mr-3">description</span>
-                    <span class="text-lg">Rekapan</span>
+                    <span class="text-lg">Kehadiran</span>
                 </a>
             </li>
             {{-- <li>
